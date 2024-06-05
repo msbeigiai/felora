@@ -1,0 +1,9 @@
+.course-cart {
+  background-image: url("./src/assets/banner.jpg");
+  background-size: cover; /* Ensure the image covers the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  height: 100vh; /* Full height of the viewport */
+  width: 100vw; /* Full width of the viewport */
+  display: flex; /
+}
